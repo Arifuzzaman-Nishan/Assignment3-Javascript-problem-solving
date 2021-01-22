@@ -1,4 +1,4 @@
- // https://github.com/Arifuzzaman-Nishan/Assignment3-Javascript-problem-solving
+// https://github.com/Arifuzzaman-Nishan/Assignment3-Javascript-problem-solving
 
 
 // kilometerToMeter function start here
@@ -130,7 +130,7 @@ function megaFriend(nameString) {
 
 }
 
-var nameString = ["nishan", "Arifuzzaman Nishan"];
+var nameString = ["nishan", "Arifuzzaman Nishan","arifuzzaman nishan"];
 var output = megaFriend(nameString);
 console.log(output);
 // megaFriend function end here
