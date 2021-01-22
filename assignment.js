@@ -1,6 +1,7 @@
+ //https://github.com/Arifuzzaman-Nishan/Assignment3-Javascript-problem-solving
+
 
 // kilometerToMeter function start here
-
 function kilometerToMeter(kilometer) {
     if (kilometer < 0) {
         return "kilometer cannot be a negative please enter a positive number";
@@ -16,14 +17,12 @@ function kilometerToMeter(kilometer) {
 var kilometer = 5;
 var result = kilometerToMeter(kilometer);
 console.log(result);
-
 // kilometerToMeter function end here
 
 
 
 
 // budgetCalculation function start here
-
 function budgetCalculator(watch, phone, laptop) {
     //50,100 and 500 are prices of watch,phone and laptop
 
@@ -48,7 +47,6 @@ var phone = 4;
 var laptop = 5;
 var answer = budgetCalculator(watch, phone, laptop);
 console.log(answer);
-
 // budgetCalculation function end here
 
 
@@ -101,7 +99,6 @@ function hotelCost(days) {
 
 var numberOfDays = 21;
 console.log(hotelCost(numberOfDays));
-
 // hotelCost function end here
 
 
